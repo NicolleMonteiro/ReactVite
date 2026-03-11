@@ -1,74 +1,74 @@
 [
     {
     "id":1,
-    "nome":"Produto 1",
+    "nome":"TechManager",
     "imagem":"https://picsum.photos/200?1",
-    "descricao":"Descrição do produto 1"
+    "descricao":"Sistema de gestão empresarial que organiza tarefas, projetos e dados da empresa em uma única plataforma intuitiva."
     },
     {
     "id":2,
-    "nome":"Produto 2",
+    "nome":"CloudSafe",
     "imagem":"https://picsum.photos/200?2",
-    "descricao":"Descrição do produto 2"
+    "descricao":"Plataforma segura de armazenamento em nuvem para guardar, acessar e compartilhar documentos com rapidez e segurança."
     },
     {
     "id":3,
-    "nome":"Produto 3",
+    "nome":"SmartProjects",
     "imagem":"https://picsum.photos/200?3",
-    "descricao":"Descrição do produto 3"
+    "descricao":"Aplicação para gerenciamento de projetos que permite acompanhar prazos, tarefas e desempenho da equipe em tempo real."
     },
     {
     "id":4,
-    "nome":"Produto 4",
+    "nome":"DataVision",
     "imagem":"https://picsum.photos/200?4",
-    "descricao":"Descrição do produto 4"
+    "descricao":"Ferramenta de análise de dados que transforma informações empresariais em relatórios claros para auxiliar na tomada de decisões."
     },
     {
     "id":5,
-    "nome":"Produto 5",
+    "nome":"AutoFlow",
     "imagem":"https://picsum.photos/200?5",
-    "descricao":"Descrição do produto 5"
+    "descricao":"Sistema de automação de processos que reduz tarefas repetitivas e aumenta a produtividade dentro das empresas."
     },
     {
     "id":6,
-    "nome":"Produto 6",
+    "nome":"TeamConnect",
     "imagem":"https://picsum.photos/200?6",
-    "descricao":"Descrição do produto 6"
+    "descricao":"Plataforma de comunicação corporativa que facilita a colaboração entre equipes e melhora o fluxo de informações."
     },
     {
     "id":7,
-    "nome":"Produto 7",
+    "nome":"ClientTrack",
     "imagem":"https://picsum.photos/200?7",
-    "descricao":"Descrição do produto 7"
+    "descricao":"Sistema de gerenciamento de clientes que organiza contatos, histórico de atendimentos e oportunidades de negócio."
     },
     {
     "id":8,
-    "nome":"Produto 8",
+    "nome":"SecureNet",
     "imagem":"https://picsum.photos/200?8",
-    "descricao":"Descrição do produto 8"
+    "descricao":"Solução de segurança digital que protege dados e sistemas contra acessos não autorizados e ameaças virtuais."
     },
     {
     "id":9,
-    "nome":"Produto 9",
+    "nome":"TaskPlanner",
     "imagem":"https://picsum.photos/200?9",
-    "descricao":"Descrição do produto 9"
+    "descricao":"Aplicação para organização de tarefas e atividades diárias, ajudando equipes a manterem o foco e a produtividade."
     },
     {
     "id":10,
-    "nome":"Produto 10",
+    "nome":"MarketInsight",
     "imagem":"https://picsum.photos/200?10",
-    "descricao":"Descrição do produto 10"
+    "descricao":"Ferramenta digital que analisa tendências do mercado e gera relatórios estratégicos para empresas."
     },
     {
     "id":11,
-    "nome":"Produto 11",
+    "nome":"RemoteWork Hub",
     "imagem":"https://picsum.photos/200?11",
-    "descricao":"Descrição do produto 11"
+    "descricao":"Plataforma criada para facilitar o gerenciamento de equipes que trabalham remotamente."
     },
     {
     "id":12,
-    "nome":"Produto 12",
+    "nome":"DigitalDocs",
     "imagem":"https://picsum.photos/200?12",
-    "descricao":"Descrição do produto 12"
+    "descricao":"Sistema inteligente para criação, organização e assinatura digital de documentos empresariais."
     }
     ]
